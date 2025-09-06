@@ -1,3 +1,3 @@
 # SQL-Solution
-Solutions of sql problems
+Solutions of sql problems.
 Athor - Himal Basnet
