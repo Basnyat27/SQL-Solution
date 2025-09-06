@@ -1,4 +1,4 @@
 # SQL-Solution
 Solutions of sql problems.
 <br>
-Athor - Himal Basnet
+Athor - Himal Basnet Kaji
